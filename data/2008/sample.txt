@@ -1,0 +1,2 @@
+Upload raw moves for each year.
+Make a directory to save all the output files for each year (clean moves, HON rules, HON network, etc).
